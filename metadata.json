@@ -1,0 +1,6 @@
+{
+  "name": "Oficina 4.0",
+  "description": "Sistema integrado de peritagem técnica, laudos fotográficos, orçamentos e gestão Kanban para oficinas de recuperação de subconjuntos industriais.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
